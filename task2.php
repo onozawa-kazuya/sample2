@@ -14,7 +14,7 @@ if ($name == "onozawa") {
 
 
 // 課題２
-$tatal = 0;
+$total = 0;
 for ($i = 1; $i <= 10000; $i++) {
     $total += $i;
 }
